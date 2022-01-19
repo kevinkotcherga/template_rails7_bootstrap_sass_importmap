@@ -1,25 +1,5 @@
-# README
+# Rails 7 Template with Bootsrap, Sass and Importmap
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Capture](https://user-images.githubusercontent.com/78493094/150114101-377dc0b5-badf-44d7-87a7-fd0fbe6497ac.PNG)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# template_rails7_bootstrap_sass_importmap
+This [template](https://jasonfleetwoodboldt.com/courses/stepping-up-rails/rails-7-bootstrap-with-sprockets-importmap-with-sassc-rails/) is possible thanks to Jason Fleetwood-Boldt
