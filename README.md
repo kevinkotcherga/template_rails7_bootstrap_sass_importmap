@@ -10,6 +10,6 @@ rm -rf .git
 git init .
 git add .
 git commit -m "First commit"
-create a new empty repository on GitHub using the new gh CLI: gh repo create
+gh repo create
 git push -u origin main
 ```
