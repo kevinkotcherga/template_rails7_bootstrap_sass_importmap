@@ -5,7 +5,7 @@
 This [template](https://jasonfleetwoodboldt.com/courses/stepping-up-rails/rails-7-bootstrap-with-sprockets-importmap-with-sassc-rails/) is possible thanks to Jason Fleetwood-Boldt.
 
 ```
-clone it
+clone it : git clone git@github.com:kevinkotcherga/template_rails7_bootstrap_sass_importmap.git
 remove the .git folder
 git init .
 git add .
