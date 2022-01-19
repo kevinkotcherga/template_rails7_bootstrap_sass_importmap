@@ -4,7 +4,7 @@
 
 This [template](https://jasonfleetwoodboldt.com/courses/stepping-up-rails/rails-7-bootstrap-with-sprockets-importmap-with-sassc-rails/) is possible thanks to Jason Fleetwood-Boldt.
 
-'''
+```
 clone it
 remove the .git folder
 git init .
@@ -12,4 +12,4 @@ git add .
 git commit -m "First commit"
 create a new empty repository on GitHub using the new gh CLI: gh repo create
 git push -u origin main
-'''
+```
